@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Curriculum Vitae de Nicolas CAUET.
+          Curriculum Vitae de Nicolas CAUET
         </p>
         <a
           className="App-link"
