@@ -2,7 +2,7 @@
   "name": "cv_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RiikuZen.github.io/cv_react",
+  "homepage": "https://RiikuZen.github.io/cv_react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
